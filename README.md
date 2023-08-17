@@ -23,7 +23,8 @@ Generates a "Target" column that indicates whether to buy, sell or do nothing ba
 Optionally, normalizes the data using the MinMaxScaler
 Splits the data into training, validation and test sets for further analysis and modelling.
 
-![holi](https://github.com/QuantumBrainLabs/Financial-Asset-Investment-Prediction-Algorithm/assets/87869947/ec9090a1-d07e-4550-b855-9ccc4710668d)
+![holi](https://github.com/QuantumBrainLabs/Financial-Asset-Investment-Prediction-Algorithm/assets/87869947/2baa571a-cdb9-41a3-9aec-35df1246b641)
+
 
 ## Models
 
